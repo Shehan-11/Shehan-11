@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shehan-11
-- 👀 I’m interested in Java, Python, Html, CSS
-- 🌱 I’m currently learning html, css and java script
+- 👀 I’m interested in Java, Python, HTML, CSS, React, Springboot, Oracle SQL, Oracle ERP and Oracle PL/SQL
 
 <!---
 Shehan-11/Shehan-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
